@@ -8,9 +8,6 @@ namespace PIS_20
 {
     class NewClass
     {
-        class metoda()
-        {
-            
-        }
+        Console.WriteLine("Hello World");
     }
 }
