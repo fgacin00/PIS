@@ -8,5 +8,6 @@ namespace PIS_20
 {
     class NewClass
     {
+        Console.WriteLine("Hello World");
     }
 }
