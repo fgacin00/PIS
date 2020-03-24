@@ -11,6 +11,7 @@ namespace PIS_20
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Filip!");
+            Console.WriteLine("PROMJENA");
         }
     }
 }
